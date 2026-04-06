@@ -70,7 +70,7 @@ Remoto / São Paulo *(2018 – 2022)*
 - **[FarmaCheck](https://github.com/Zhennyn/FarmaCheck)** – Sistema de gerenciamento para farmácias  
 - **[Poupe Já](https://github.com/Zhennyn/poupe-ja)** – App de controle financeiro  
 - **[PI-MindMap](https://github.com/Zhennyn/PI-MindMap)** – Ferramenta de mapeamento mental  
-- **[ChatNest Bot Builder](https://github.com/Zhennyn/chatnest-bot-builder)**  
+- **[Controle Geral de Estoque](https://github.com/Zhennyn/Controle-geral-de-estoque)** - Ferramenta com controle completo do estoque
 - **[MLTI Site](https://github.com/Zhennyn/mlti-site)**
 
 ---
