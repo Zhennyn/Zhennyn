@@ -42,11 +42,12 @@ Atualmente trabalho no **Carrefour** como Suporte Técnico em ambiente de alto v
 
 ### 💼 Experiência Profissional
 
-**Suporte Técnico e Operações**  
+**Atendente de Farmácia**  
 **Carrefour** — São Paulo, SP *(2025 – Atual)*  
-- Resolução de incidentes técnicos em sistemas críticos (PDV) de alto volume  
-- Diagnóstico rápido de hardware, software e rede sob pressão  
-- Garantia de continuidade de serviço e alta satisfação do usuário  
+- Atendimento ao público em farmácia com **responsabilidades técnicas adicionais** em sistemas PDV de alto volume  
+- Resolução rápida de incidentes técnicos (hardware, software e rede) sob pressão  
+- Suporte simultâneo a múltiplos chamados garantindo continuidade das operações  
+- Desenvolvimento de habilidades fortes de resolução de problemas e foco na experiência do usuário
 
 **Freelancer — Suporte Técnico** *(2018 – 2022)*  
 - Atendimento remoto e presencial para clientes e pequenas empresas  
