@@ -3,7 +3,7 @@
 **Full Stack Júnior | React • React Native • TypeScript • Supabase**
 
 São Paulo, SP | +55 (11) 95022-8596 | [matheuslimamenezes2005@gmail.com](mailto:matheuslimamenezes2005@gmail.com)  
-[LinkedIn](https://linkedin.com/in/matheus-lima-menezes) | [Behance](https://behance.net/zhennyn) | [Portfólio](portifolio-kinomotto-12.vercel.app)
+[LinkedIn](https://linkedin.com/in/matheus-lima-menezes) | [Behance](https://behance.net/zhennyn) | [Portfólio](https://portifolio-kinomotto-12.vercel.app)
 
 ---
 
