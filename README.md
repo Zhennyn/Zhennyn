@@ -1,91 +1,306 @@
-# 👋 Olá, eu sou Matheus Lima Menezes!
+<!-- Urahara Kisuke Theme — by Zhennyn -->
 
-**Full Stack Júnior | React • React Native • TypeScript • Supabase**
+<div align="center">
 
-São Paulo, SP | +55 (11) 95022-8596 | [matheuslimamenezes2005@gmail.com](mailto:matheuslimamenezes2005@gmail.com)  
-[LinkedIn](https://linkedin.com/in/matheus-lima-menezes) | [Behance](https://behance.net/zhennyn) | [Portfólio](https://portifolio-kinomotto-12.vercel.app)
+```
+　　　　　　▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+　　　　　　█　　URAHARA SHŌTEN　　　　　　 █
+　　　　　　█　　　　Seção de Desenvolvimento　 █
+　　　　　　▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 
----
+<img src="https://media1.tenor.com/m/aEJ91G7YIccAAAAC/urahara-kisuke-kisuke-urahara.gif" width="380" alt="Urahara Kisuke sorrindo com leque"/>
 
-### Sobre mim
+# `// Matheus Lima Menezes`
 
-Desenvolvedor Full Stack Júnior apaixonado por criar aplicações web e mobile completas com **React, React Native, TypeScript e Supabase**.  
+### *"Se você chegou até aqui, deve estar procurando por algo especial."*
 
-Tenho experiência prática no desenvolvimento de sistemas do zero (autenticação por papéis, dashboards interativos, arquitetura offline-first e integração com banco de dados).  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C8B400&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%7C+React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Construindo+coisas+que+parecem+impossíveis...;...mas+para+mim%2C+isso+é+só+aquecimento.;Bem-vindo+à+Urahara+Shōten+de+Tecnologia+🎩)](https://git.io/typing-svg)
 
-Atualmente trabalho no **Carrefour** como Suporte Técnico em ambiente de alto volume (PDV), o que me deu uma excelente capacidade de **resolução de problemas sob pressão** e foco total na experiência do usuário — habilidades que aplico diariamente nos meus projetos de desenvolvimento.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-lima-menezes)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/zhennyn)
+[![Portfolio](https://img.shields.io/badge/Portfólio-%23C8B400.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portifolio-kinomotto-12.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuslimamenezes2005@gmail.com)
 
----
-
-### 🚀 Projetos em Destaque
-
-**Estuda+** — Plataforma de Avaliação Educacional (Web)  
-✅ Plataforma full-stack com autenticação baseada em papéis (aluno/professor)  
-✅ Dashboard para professores + provas em tempo real para alunos  
-✅ PWA com backend em nuvem  
-**Tech:** TypeScript • React • Supabase • PostgreSQL • Tailwind • Vercel  
-
-**FarmaCheck** — App de Gestão de Estoque Farmacêutico (Mobile)  
-✅ Arquitetura offline-first + leitura de código de barras  
-✅ Classificação automática de risco e histórico de auditoria  
-✅ Exportação CSV/XLSX  
-**Tech:** React Native • Expo • TypeScript • SQLite  
-
-**Poupe Já** — App de Finanças Pessoais (Multiplataforma)  
-✅ Controle de saldo em tempo real + categorização de transações  
-✅ Dashboard interativo com backend  
-**Tech:** React Native • Expo • TypeScript • Supabase • PostgreSQL  
-
-*(Todos os projetos estão com código aberto e deploy ao vivo — links nos repositórios)*
+</div>
 
 ---
 
-### 💼 Experiência Profissional
+<div align="center">
 
-**Atendente de Farmácia**  
-**Carrefour** — São Paulo, SP *(2025 – Atual)*  
-- Atendimento ao público em farmácia com **responsabilidades técnicas adicionais** em sistemas PDV de alto volume  
-- Resolução rápida de incidentes técnicos (hardware, software e rede) sob pressão  
-- Suporte simultâneo a múltiplos chamados garantindo continuidade das operações  
-- Desenvolvimento de habilidades fortes de resolução de problemas e foco na experiência do usuário
+```
+┌─────────────────────────────────────────────────────────────────┐
+│   ▓▓  Bem-vindo à Loja Urahara de Tecnologia e Soluções  ▓▓    │
+│                                                                  │
+│   Aqui vendemos produtos de qualidade para clientes de          │
+│   qualidade. Mas cuidado — o preço pode ser mais alto           │
+│   do que você imagina.   🎩                                      │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-**Freelancer — Suporte Técnico** *(2018 – 2022)*  
-- Atendimento remoto e presencial para clientes e pequenas empresas  
-- Configuração completa de Windows, redes locais e sistemas  
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-**Desenvolvimento**  
-TypeScript • React • React Native • Expo • JavaScript  
-
-**Backend & Dados**  
-Supabase • PostgreSQL • SQL • SQLite  
-
-**Frontend & UI**  
-Tailwind CSS • shadcn/ui • Recharts  
-
-**Cloud & Deploy**  
-Microsoft Azure • Vercel • Git • GitHub  
-
-**Suporte Técnico**  
-Hardware • Software • Redes • Windows • Diagnóstico de problemas  
+</div>
 
 ---
 
-### 📚 Formação e Certificações
+## `〔 Sobre o Proprietário 〕`
 
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Senac São Paulo  
-- **Fundamentos do Microsoft Azure** — Microsoft / DIO  
-- **Power BI para Ciência de Dados** — Em andamento  
-- **Vendas Inbound** — HubSpot  
-- **Fundamentos de Administração** — FGV  
+<img align="right" src="https://media1.tenor.com/m/FKKNJ-vQN0QAAAAC/urahara-kisuke.gif" width="260" alt="Urahara comendo pirulito"/>
+
+> *"Sabia? A diferença entre um gênio e um louco é só o resultado."*
+
+Desenvolvedor **Full Stack Júnior** com uma mente que não desliga — apaixonado por construir aplicações web e mobile completas do zero.
+
+- ⚗️ **Especialidade:** `React` • `React Native` • `TypeScript` • `Supabase`
+- 🔬 **Laboratório secreto:** Autenticação por papéis, dashboards interativos, arquitetura offline-first
+- 🏪 **Expediente atual:** Suporte Técnico no **Carrefour** (PDV de alto volume) — onde resolvo problemas antes de eles acontecerem
+- 📍 **Base de operações:** São Paulo, SP — Brasil
+- 🎭 **Identidade alternativa:** `Zhennyn`
+
+> *"Trabalhar sob pressão? Isso pra mim é só... um dia normal de loja."*
+
+<br clear="right"/>
 
 ---
 
-**Aberto a oportunidades** como Desenvolvedor Full Stack Júnior, React Native Developer, ou projetos freelance (web/mobile + Supabase).  
+## `〔 Estoque da Loja — Projetos 〕`
 
-Vamos construir algo incrível juntos? 📩 Me chama!
+> *"Cada item desse estoque foi desenvolvido pessoalmente. Com muita pesquisa. E talvez algumas noites sem dormir."*
 
-*Feito com ❤️ e muito código por Zhennyn*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 `Estuda+`
+**Plataforma de Avaliação Educacional**
+
+```
+CLASSIFICAÇÃO: ★★★★★ Raro
+STATUS: Deploy ativo — ao vivo
+```
+
+Um sistema completo onde professores reinam e alunos provam seu valor — tudo em tempo real.
+
+**Funcionalidades seletas:**
+- 🔐 Autenticação por papéis (aluno / professor)
+- 📊 Dashboard para professores
+- ⚡ Provas em tempo real
+- 🌐 PWA com backend em nuvem
+
+**Ingredientes:**
+```
+TypeScript • React • Supabase
+PostgreSQL • Tailwind • Vercel
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 💊 `FarmaCheck`
+**Gestão de Estoque Farmacêutico — Mobile**
+
+```
+CLASSIFICAÇÃO: ★★★★★ Secreto
+STATUS: 🔄 Em desenvolvimento
+```
+
+Um app que funciona mesmo quando o mundo não coopera. Offline-first, porque dependência de internet é fraqueza.
+
+**Funcionalidades seletas:**
+- 📡 Arquitetura offline-first
+- 📷 Leitura de código de barras
+- ⚠️ Classificação automática de risco
+- 📋 Histórico de auditoria + CSV/XLSX
+
+**Ingredientes:**
+```
+React Native • Expo • TypeScript
+SQLite
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 `Poupe Já`
+**Finanças Pessoais — Multiplataforma**
+
+```
+CLASSIFICAÇÃO: ★★★★☆ Versátil
+STATUS: Deploy ativo — ao vivo
+```
+
+Porque ninguém deveria perder o controle do próprio dinheiro. Nem eu, nem você.
+
+**Funcionalidades seletas:**
+- 💹 Saldo em tempo real
+- 🗂️ Categorização de transações
+- 📈 Dashboard interativo
+
+**Ingredientes:**
+```
+React Native • Expo • TypeScript
+Supabase • PostgreSQL
+```
+
+</td>
+<td width="50%" valign="top">
+
+### `🎩 Mais por vir...`
+
+```
+CLASSIFICAÇÃO: ██████ Confidencial
+STATUS: Em desenvolvimento
+```
+
+*"Estou trabalhando em algo que ainda não posso mostrar. Mas pode ter certeza... quando estiver pronto, você vai notar."*
+
+Siga os repositórios para updates.
+
+**Atualmente estudando:**
+```
+Power BI • Ciência de Dados
+Microsoft Azure (certificado)
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `〔 Toolkit — Ferramentas do Laboratório 〕`
+
+> *"Um bom artesão conhece cada ferramenta que usa. Eu as escolhi com cuidado."*
+
+<div align="center">
+
+**⚗️ Desenvolvimento**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**🗄️ Backend & Dados**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**🎨 Frontend & UI**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+
+**☁️ Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## `〔 Registros de Campo — Experiência 〕`
+
+> *"Experiência? Prefiro chamar de experimentos bem-sucedidos."*
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  📋 FICHA DE OPERAÇÕES                                   ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [2025 – ATUAL]  Carrefour · São Paulo, SP               ║
+║  Cargo: Atendente de Farmácia + Suporte Técnico PDV      ║
+║                                                          ║
+║  💊 Farmácia:                                            ║
+║  → Atendimento ao cliente com orientação sobre           ║
+║    medicamentos (prescritos e OTC)                       ║
+║  → Controle e organização de estoque farmacêutico        ║
+║  → Verificação de validade e conformidade de produtos    ║
+║  → Orientação sobre posologia e interações básicas       ║
+║  → Processamento de vendas e receitas médicas            ║
+║                                                          ║
+║  🖥️ Suporte Técnico PDV:                                 ║
+║  → Resolução rápida de incidentes (hw, sw, redes)        ║
+║  → Suporte simultâneo a múltiplos chamados               ║
+║  → Operações críticas mantidas sob pressão               ║
+║  → Foco absoluto na experiência do usuário               ║
+║                                                          ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [2018 – 2022]  Freelancer · Suporte Técnico             ║
+║  Missão: Resolver o impossível em campo                  ║
+║                                                          ║
+║  → Config. completa de Windows, redes e sistemas         ║
+║  → Atendimento remoto e presencial                       ║
+║  → Clientes individuais e pequenas empresas              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `〔 Pergaminhos & Certificações 〕`
+
+> *"Papel não faz o mestre. Mas ajuda a convencer os outros."*
+
+| 📜 Formação / Certificação | 🏛️ Instituição | 🔖 Status |
+|---|---|---|
+| Graduação em Análise e Desenvolvimento de Sistemas | Senac São Paulo | ✅ Concluído |
+| Fundamentos do Microsoft Azure | Microsoft / DIO | ✅ Concluído |
+| Power BI para Ciência de Dados | — | 🔄 Em andamento |
+| Vendas Inbound | HubSpot | ✅ Concluído |
+| Fundamentos de Administração | FGV | ✅ Concluído |
+
+---
+
+## `〔 Stats do Laboratório 〕`
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=zhennyn&theme=dark&hide_border=true&background=0D1117&ring=C8B400&fire=C8B400&currStreakLabel=C8B400)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media1.tenor.com/m/aPdNsblhRKAAAAAC/urahara-kisuke-bleach.gif" width="320" alt="Urahara Kisuke smirk chapéu"/>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🎩  Aberto a oportunidades como:                           │
+│                                                              │
+│      ▸ Desenvolvedor Full Stack Júnior                       │
+│      ▸ React Native Developer                                │
+│      ▸ Projetos Freelance (web/mobile + Supabase)            │
+│                                                              │
+│   Quer construir algo que ainda não existe?                  │
+│   📩  matheuslimamenezes2005@gmail.com                       │
+│   🔗  linkedin.com/in/matheus-lima-menezes                   │
+│                                                              │
+│   "Clientes interessantes recebem soluções interessantes."   │
+│                                          — Zhennyn / ML      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhennyn&bg_color=0d1117&color=C8B400&line=C8B400&point=ffffff&area=true&hide_border=true)
+
+---
+
+*Feito com 🎩 e muito código por **Zhennyn***
+
+*"Yoroshiku." — Urahara Kisuke*
+
+</div>
