@@ -70,27 +70,30 @@ Desenvolvedor **Full Stack Júnior** com uma mente que não desliga — apaixona
 <tr>
 <td width="50%" valign="top">
 
-### 📚 `Estuda+`
-**Plataforma de Avaliação Educacional**
+### 🍕 `Pizzaria do Baixinho`
+**Landing Page Institucional — Web**
 
 ```
-CLASSIFICAÇÃO: ★★★★★ Raro
+CLASSIFICAÇÃO: ★★★★☆ Saboroso
 STATUS: Deploy ativo — ao vivo
 ```
 
-Um sistema completo onde professores reinam e alunos provam seu valor — tudo em tempo real.
+Uma vitrine digital completa para uma pizzaria — porque até o cardápio merece uma boa interface. Rápido, bonito e direto ao ponto.
 
 **Funcionalidades seletas:**
-- 🔐 Autenticação por papéis (aluno / professor)
-- 📊 Dashboard para professores
-- ⚡ Provas em tempo real
-- 🌐 PWA com backend em nuvem
+- 🗂️ Cardápio interativo com categorias
+- 📱 Layout responsivo e moderno
+- 🎨 UI temática com identidade visual própria
+- ⚡ Performance otimizada com Vite
 
 **Ingredientes:**
 ```
-TypeScript • React • Supabase
-PostgreSQL • Tailwind • Vercel
+React • TypeScript • Vite
+Tailwind CSS • Vercel
 ```
+
+[![Ver ao vivo](https://img.shields.io/badge/🌐_Ver_ao_vivo-C0392B?style=flat-square&logoColor=white)](https://pizzaria-do-baixinho-rxxg.vercel.app/)
+[![Repositório](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zhennyn/Pizzaria-do-Baixinho)
 
 </td>
 <td width="50%" valign="top">
