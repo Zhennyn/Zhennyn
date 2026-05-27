@@ -146,6 +146,36 @@ Supabase • PostgreSQL
 </td>
 <td width="50%" valign="top">
 
+### 🌿 `Florasan SA Ambiental`
+**Landing Page Institucional — Parceria Empresarial**
+
+```
+CLASSIFICAÇÃO: ★★★★☆ Estratégico
+STATUS: Deploy ativo — ao vivo
+```
+
+Projeto desenvolvido **em parceria com a Florasan SA Ambiental** — empresa especializada em gestão de resíduos e soluções sustentáveis. Uma vitrine digital onde o verde encontra a tecnologia.
+
+**Funcionalidades seletas:**
+- 🍃 Animação de folhas com keyframes CSS
+- 🧮 Calculadora interativa de impacto ambiental
+- 📋 Formulário de solicitação técnica via WhatsApp
+- 📱 Interface responsiva e moderna
+
+**Ingredientes:**
+```
+HTML5 • Tailwind CSS • JavaScript
+FontAwesome • Vercel
+```
+
+[![Ver ao vivo](https://img.shields.io/badge/🌐_Ver_ao_vivo-2d6a4f?style=flat-square&logoColor=white)](https://florasan-sa-ambiental.vercel.app/)
+[![Repositório](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zhennyn/Florasan-SA-Ambiental)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### `🎩 Mais por vir...`
 
 ```
@@ -164,6 +194,7 @@ Microsoft Azure (certificado)
 ```
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
