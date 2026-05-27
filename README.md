@@ -18,7 +18,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C8B400&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%7C+React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Construindo+coisas+que+parecem+impossíveis...;...mas+para+mim%2C+isso+é+só+aquecimento.;Bem-vindo+à+Urahara+Shōten+de+Tecnologia+🎩)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-lima-menezes)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/zhennyn)
 [![Portfolio](https://img.shields.io/badge/Portfólio-%23C8B400.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portifolio-kinomotto-12.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuslimamenezes2005@gmail.com)
 
