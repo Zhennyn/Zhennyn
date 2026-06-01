@@ -171,7 +171,6 @@ FontAwesome • Vercel
 ```
 
 [![Ver ao vivo](https://img.shields.io/badge/🌐_Ver_ao_vivo-2d6a4f?style=flat-square&logoColor=white)](https://florasan-sa-ambiental.vercel.app/)
-[![Repositório](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zhennyn/Florasan-SA-Ambiental)
 
 </td>
 </tr>
