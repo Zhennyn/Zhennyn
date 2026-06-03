@@ -92,7 +92,6 @@ Tailwind CSS • Vercel
 ```
 
 [![Ver ao vivo](https://img.shields.io/badge/🌐_Ver_ao_vivo-C0392B?style=flat-square&logoColor=white)](https://pizzaria-do-baixinho-rxxg.vercel.app/)
-[![Repositório](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zhennyn/Pizzaria-do-Baixinho)
 
 </td>
 <td width="50%" valign="top">
@@ -156,7 +155,7 @@ CLASSIFICAÇÃO: ★★★★☆ Estratégico
 STATUS: Deploy ativo — ao vivo
 ```
 
-Projeto desenvolvido **em parceria com a Florasan SA Ambiental** — empresa especializada em gestão de resíduos e soluções sustentáveis. Uma vitrine digital onde o verde encontra a tecnologia.
+Quem disse que resíduo não tem glamour? A Florasan SA Ambiental cuida do planeta, eu cuidei do digital. Resultado: verde por fora, elegante por dentro.
 
 **Funcionalidades seletas:**
 - 🍃 Animação de folhas com keyframes CSS
@@ -177,6 +176,35 @@ FontAwesome • Vercel
 <tr>
 <td width="50%" valign="top">
 
+### 🪵 `Sig Marcenaria`
+**Gestão de Fidelidade e Clientes — Web**
+
+```
+CLASSIFICAÇÃO: ★★★★★ Artesanal
+STATUS: Deploy ativo — ao vivo
+```
+
+Fidelidade é uma arte. A Sig Marcenaria domina o artesanato, eu dominei a arquitetura. Juntos, construímos algo que dura.
+
+**Funcionalidades seletas:**
+- 🔐 Autenticação de administradores e clientes
+- 🎖️ Controle de selos e resgates de fidelidade
+- 📊 Dashboard com métricas e gráficos interativos
+- 📋 Gestão de campanhas, catálogo e indicações
+- 🔍 Consulta de clientes por CPF + orçamentos
+
+**Ingredientes:**
+```
+Next.js 16 • React 19 • TypeScript
+Supabase • PostgreSQL • Recharts
+Tailwind CSS • Zod • React Hook Form
+```
+
+[![Ver ao vivo](https://img.shields.io/badge/🌐_Ver_ao_vivo-8B4513?style=flat-square&logoColor=white)](https://sig-marcenaria.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
 ### `🎩 Mais por vir...`
 
 ```
@@ -195,7 +223,6 @@ Microsoft Azure (certificado)
 ```
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
